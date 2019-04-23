@@ -6,3 +6,4 @@ no feature1
 
 git checkout dev
 featrue1
+bug
