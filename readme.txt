@@ -1,4 +1,4 @@
 Git is a version control system.
 git is free
-git is tracks changes
+git is tracks changes of files
 git add
